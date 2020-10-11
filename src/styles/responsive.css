@@ -1,0 +1,193 @@
+@media screen and (min-width: 400px) {
+  .hero-desc {
+      font-size: 1rem;
+  }
+
+  .brand-title, .nav-icon  {
+      font-size: 2rem;
+  }
+
+  .hero-tagline {
+      font-size: 1.5rem;
+  }
+  
+
+}
+
+@media screen and (min-width: 500px) {
+  .hero-desc {
+      font-size: 1.2rem;
+      top: 10em;
+  }
+
+  .hero-tagline {
+      font-size: 2rem;
+  }
+}
+
+
+@media screen and (min-width: 600px) {
+  .store-list {
+      padding: 3rem;
+  }
+
+  .copyright {
+      font-size: 2rem;
+  }
+}
+
+@media screen and (min-width: 650px) {
+  #storeList {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 1rem
+  }
+
+  .store-list {
+      padding: 1rem;
+  }
+
+  section {
+      margin: 0;
+  }
+
+  .brand-title {
+      font-size: 2rem;
+  }
+
+  .hero-tagline {
+      top: 4em;
+      font-size: 2.5rem;
+  }
+
+  .hero-desc {
+      font-size: 1.3rem;
+      top: 12em;
+  }
+
+  .nav-icon {
+      display: none;
+  }
+
+  .brand-title {
+      left: .6em;
+      top: .4em;
+  }
+
+  nav {
+      width: 100%;
+      background: none;
+      top: 1rem;
+      left: 0;
+      text-align: right;
+  }
+
+  .nav-list {
+      padding: 0;
+  }
+
+  .nav-item {
+      display: inline-block;
+  }
+
+  .nav-item a {
+      color: #fff;
+  }
+
+  .nav-item a::after {
+      content: none;
+  }
+
+  .nav-item a:hover {
+      border-bottom: 4px solid #a2de96;;
+      border-radius: 1em;
+  }
+
+  .skip-content {
+      top: 5em;
+      font-size: 1rem;
+  }
+
+  .all-available ul{
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 1rem;
+      margin: 3rem 0;
+  }
+
+  .header-available{
+      font-size: 2rem;
+  }
+
+  .all-available h4 {
+      font-size: 1.6rem;
+  }
+
+  #content .store{
+      padding: 1rem;
+  }
+}
+
+@media screen and (min-width: 800px) {
+    .main-title {
+        font-size: 2rem;
+    }
+
+  .store-list {
+      padding: 2rem;
+  }
+
+  .hero-tagline{
+      top: 6em;
+  }
+
+  .hero-desc {
+      font-size: 1.7rem;
+      top: 13em;
+  }
+}
+
+@media screen and (min-width: 900px) {
+  .nav-list {
+      font-size: 1.2rem;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  #storeList {
+      grid-template-columns: repeat(3, 1fr);
+  }
+
+  .all-available ul{
+      grid-template-columns: repeat(3, 1fr);
+  }
+
+  .store-list {
+      padding: 1rem;
+  }
+
+  .brand-title {
+      font-size: 3rem;
+  }
+
+  .nav-item {
+      font-size: 1.5rem;
+  }
+  
+}
+
+@media screen and (min-width: 1400px) {
+  body {
+      margin: auto;
+      max-width: 1400px;
+  }
+
+  .brand-title {
+      font-size: 5rem;
+  }
+
+  .nav-list {
+      font-size: 2rem;
+  }
+  
+}

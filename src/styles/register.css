@@ -1,0 +1,98 @@
+.main-block {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #fff;
+}
+
+legend h3 {
+  font-size: 1.3rem;
+  margin: 2em 0;
+}
+
+form {
+  width: 100%;
+  padding: 20px;
+  text-align: center;
+}
+
+fieldset {
+  border-top: 4px solid #8ebf42;
+}
+
+.store-details {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.store-details >div >div {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.store-details >div, input, label {
+  width: 100%;
+}
+
+label {
+  padding: 0 5px;
+  text-align: right;
+  vertical-align: middle;
+}
+
+input {
+  padding: 5px;
+  vertical-align: middle;
+}
+
+input:focus {
+  outline: 2px solid #8ebf42;
+}
+
+.checkbox {
+  margin-bottom: 10px;
+}
+
+
+.checkbox input, .children input {
+  width: auto;
+  margin: -2px 10px 0 0;
+}
+
+.checkbox a {
+  color: #8ebf42;
+}
+
+.checkbox a:hover {
+  color: #97a089;
+}
+
+button {
+  min-width: 120px;
+  min-height: 44px;
+  padding: 10px 0;
+  margin: 10px auto;
+  border-radius: 5px; 
+  border: none;
+  background: #8ebf42; 
+  font-size: 14px;
+  font-weight: 600;
+  color: #fff;
+}
+
+button:hover {
+  background: #82b534;
+}
+
+@media (min-width: 568px) {
+  .store-details >div, input, label {
+    width: 50%;
+  }
+
+  .store-details .form-input {
+    margin: auto;
+    margin-left: 13vw;
+  }
+}

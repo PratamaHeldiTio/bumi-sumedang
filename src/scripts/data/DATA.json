@@ -1,0 +1,76 @@
+{
+  "store": [
+    {
+      "name": "Sayur bu ela",
+      "description": "Sayuran merupakan sebutan umum bagi bahan pangan asal tumbuhan yang biasanya mengandung kadar air tinggi dan dikonsumsi dalam keadaan segar atau setelah diolah secara minimal. Sebutan untuk beraneka jenis sayuran disebut sebagai sayur-sayuran atau sayur-mayur. Sejumlah sayuran dapat dikonsumsi mentah tanpa dimasak terlebih dahulu, sementara yang lainnya harus diolah terlebih dahulu dengan cara direbus, dikukus, digoreng, disangrai, atau dimakan mentah-mentah. Sayuran berbentuk daun yang dimakan mentah disebut sebagai lalapan. Sayur merupakan makanan yang sehat untuk dikonsumsi.",
+      "pictureId": "./images/vegetables-1.jpg",
+      "city": "Tanjungsari"
+    },
+    {
+      "name": "Sayur bu nina",
+      "description": "Sayuran merupakan sebutan umum bagi bahan pangan asal tumbuhan yang biasanya mengandung kadar air tinggi dan dikonsumsi dalam keadaan segar atau setelah diolah secara minimal. Sebutan untuk beraneka jenis sayuran disebut sebagai sayur-sayuran atau sayur-mayur. Sejumlah sayuran dapat dikonsumsi mentah tanpa dimasak terlebih dahulu, sementara yang lainnya harus diolah terlebih dahulu dengan cara direbus, dikukus, digoreng, disangrai, atau dimakan mentah-mentah. Sayuran berbentuk daun yang dimakan mentah disebut sebagai lalapan. Sayur merupakan makanan yang sehat untuk dikonsumsi.",
+      "pictureId": "./images/vegetables-2.jpg",
+      "city": "Jatinangor"
+    },
+    {
+      "name": "Sayur sehat",
+      "description": "Sayuran merupakan sebutan umum bagi bahan pangan asal tumbuhan yang biasanya mengandung kadar air tinggi dan dikonsumsi dalam keadaan segar atau setelah diolah secara minimal. Sebutan untuk beraneka jenis sayuran disebut sebagai sayur-sayuran atau sayur-mayur. Sejumlah sayuran dapat dikonsumsi mentah tanpa dimasak terlebih dahulu, sementara yang lainnya harus diolah terlebih dahulu dengan cara direbus, dikukus, digoreng, disangrai, atau dimakan mentah-mentah. Sayuran berbentuk daun yang dimakan mentah disebut sebagai lalapan. Sayur merupakan makanan yang sehat untuk dikonsumsi.",
+      "pictureId": "./images/vegetables-3.jpg",
+      "city": "Sukasari"
+    },
+    {
+      "name": "Pisang pak soleh",
+      "description": "Pisang adalah nama umum yang diberikan pada tumbuhan terna raksasa berdaun besar memanjang dari suku Musaceae. Beberapa jenisnya menghasilkan buah konsumsi yang dinamakan sama. Buah ini tersusun dalam tandan dengan kelompok-kelompok tersusun menjari yang disebut sisir.",
+      "pictureId": "./images/banana.jpg",
+      "city": "Tanjungsari"
+    },
+    {
+      "name": "Melon pak dadang",
+      "description": "Melon merupakan nama buah sekaligus tanaman yang menghasilkannya, yang termasuk dalam suku labu-labuan atau Cucurbitaceae. Buahnya biasanya dimakan segar sebagai buah meja atau diiris-iris sebagai campuran es buah. Bagian yang dimakan adalah daging buah.",
+      "pictureId": "./images/watermelon.jpg",
+      "city": "Sumedang"
+    },
+    {
+      "name": "Apel bu haji",
+      "description": "Apel adalah jenis buah-buahan, atau buah yang dihasilkan dari pohon buah apel. Buah apel biasanya berwarna merah kulitnya jika masak dan, namun bisa juga kulitnya berwarna hijau atau kuning. Kulit buahnya agak lembek, daging buahnya keras. Buah ini memiliki beberapa biji di dalamnya.",
+      "pictureId": "./images/apple.jpg",
+      "city": "Sumedang"
+    },
+    {
+      "name": "Kopi manglayang asep",
+      "description": "Kopi asal Jawa Barat yakni Kopi Manglayang yang ditanam dari ketinggian 1.000 meter di atas permukaan laut berhasil menembus pasar internasional mulai Maroko, Jepang, hingga Australia. Selain itu, lanjutnya, kopi ini juga bisa menghasilkan sekitar 50 sampai 60 ton tiap panennya yang bertahap setiap 5 bulan sekali.",
+      "pictureId": "./images/coffee-1.jpg",
+      "city": "Tanjungsari"
+    },
+    {
+      "name": "Kopi manglayang heldi",
+      "description": "Kopi asal Jawa Barat yakni Kopi Manglayang yang ditanam dari ketinggian 1.000 meter di atas permukaan laut berhasil menembus pasar internasional mulai Maroko, Jepang, hingga Australia. Selain itu, lanjutnya, kopi ini juga bisa menghasilkan sekitar 50 sampai 60 ton tiap panennya yang bertahap setiap 5 bulan sekali.",
+      "pictureId": "./images/coffee-2.jpg",
+      "city": "Tanjungsari"
+    },
+    {
+      "name": "Kopi manglayang agung",
+      "description": "Kopi asal Jawa Barat yakni Kopi Manglayang yang ditanam dari ketinggian 1.000 meter di atas permukaan laut berhasil menembus pasar internasional mulai Maroko, Jepang, hingga Australia. Selain itu, lanjutnya, kopi ini juga bisa menghasilkan sekitar 50 sampai 60 ton tiap panennya yang bertahap setiap 5 bulan sekali.",
+      "pictureId": "./images/coffee-3.jpg",
+      "city": "Tanjungsari"
+    },
+    {
+      "name": "Tembakau darmawangi ateng",
+      "description": "Tembakau ini berasal dari Kabupaten Sumedang. Tembakau ini mempunyai aroma yang berbeda setelah diolah dan tekstur dari daunnya yang tidak begitu keras ketika dipotong. Harganya sangat terjangkau cocok untuk penghematan di masa pandemik ini.",
+      "pictureId": "./images/tobacco-1.jpg",
+      "city": "Tanjungsari"
+    },
+    {
+      "name": "Tembakau darmawangi ujang",
+      "description": "Tembakau ini berasal dari Kabupaten Sumedang. Tembakau ini mempunyai aroma yang berbeda setelah diolah dan tekstur dari daunnya yang tidak begitu keras ketika dipotong. Harganya sangat terjangkau cocok untuk penghematan di masa pandemik ini.",
+      "pictureId": "./images/tobacco-2.jpg",
+      "city": "Sukasari"
+    },
+    {
+      "name": "Tembakau darmawangi anis",
+      "description": "Tembakau ini berasal dari Kabupaten Sumedang. Tembakau ini mempunyai aroma yang berbeda setelah diolah dan tekstur dari daunnya yang tidak begitu keras ketika dipotong. Harganya sangat terjangkau cocok untuk penghematan di masa pandemik ini.",
+      "pictureId": "./images/tobacco-3.jpg",
+      "city": "Sumedang"
+    }
+  ]
+}
